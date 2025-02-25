@@ -1,0 +1,17 @@
+C:\Users\dimau\source\repos\Lab 1.2\Lab 1.2\obj\Debug\net8.0\Lab 1.2.csproj.AssemblyReference.cache
+C:\Users\dimau\source\repos\Lab 1.2\Lab 1.2\obj\Debug\net8.0\Lab 1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimau\source\repos\Lab 1.2\Lab 1.2\obj\Debug\net8.0\Lab 1.2.AssemblyInfoInputs.cache
+C:\Users\dimau\source\repos\Lab 1.2\Lab 1.2\obj\Debug\net8.0\Lab 1.2.AssemblyInfo.cs
+C:\Users\dimau\source\repos\Lab 1.2\Lab 1.2\obj\Debug\net8.0\Lab 1.2.csproj.CoreCompileInputs.cache
+C:\Users\dimau\source\repos\Lab 1.2\Lab 1.2\bin\Debug\net8.0\Lab 1.2.exe
+C:\Users\dimau\source\repos\Lab 1.2\Lab 1.2\bin\Debug\net8.0\Lab 1.2.deps.json
+C:\Users\dimau\source\repos\Lab 1.2\Lab 1.2\bin\Debug\net8.0\Lab 1.2.runtimeconfig.json
+C:\Users\dimau\source\repos\Lab 1.2\Lab 1.2\bin\Debug\net8.0\Lab 1.2.dll
+C:\Users\dimau\source\repos\Lab 1.2\Lab 1.2\bin\Debug\net8.0\Lab 1.2.pdb
+C:\Users\dimau\source\repos\Lab 1.2\Lab 1.2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\dimau\source\repos\Lab 1.2\Lab 1.2\obj\Debug\net8.0\Lab 1.2.csproj.Up2Date
+C:\Users\dimau\source\repos\Lab 1.2\Lab 1.2\obj\Debug\net8.0\Lab 1.2.dll
+C:\Users\dimau\source\repos\Lab 1.2\Lab 1.2\obj\Debug\net8.0\refint\Lab 1.2.dll
+C:\Users\dimau\source\repos\Lab 1.2\Lab 1.2\obj\Debug\net8.0\Lab 1.2.pdb
+C:\Users\dimau\source\repos\Lab 1.2\Lab 1.2\obj\Debug\net8.0\Lab 1.2.genruntimeconfig.cache
+C:\Users\dimau\source\repos\Lab 1.2\Lab 1.2\obj\Debug\net8.0\ref\Lab 1.2.dll
