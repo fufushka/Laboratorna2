@@ -1,1 +1,1 @@
-![Cool Animation]([https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdzeDBrY2JmdHlhNTNicWdsa2xhbjRqMXRkYmN2YTFiajQ2YXh4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gtakVlnStZUbe/giphy.gif))
+![Cool Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdzeDBrY2JmdHlhNTNicWdsa2xhbjRqMXRkYmN2YTFiajQ2YXh4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gtakVlnStZUbe/giphy.gif)
